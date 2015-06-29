@@ -5,6 +5,10 @@
   "authors": [
     "Ian Duffy <ian@ianduffy.ie>"
   ],
+  "main": [
+      "tabSlideBox.css",
+      "tabSlideBox.js"
+  ]
   "license": "MIT",
   "ignore": [
     "**/.*",
