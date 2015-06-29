@@ -1,0 +1,16 @@
+{
+  "name": "tabbedSlideBox",
+  "version": "0.0.1",
+  "homepage": "https://github.com/imduffy15/ionic-tabbed-slide-box",
+  "authors": [
+    "Ian Duffy <ian@ianduffy.ie>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
